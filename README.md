@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJs and Nodejs express ,React native animation**
 
-- 🤝 I’m looking for help with **Shopify Project**
+- 🤝 I’m looking for help with **Shopify Project,React native project**
 
 - 💬 Ask me about **react, react native and node**
 
